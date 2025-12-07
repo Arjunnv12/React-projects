@@ -1,0 +1,62 @@
+.AdminSign {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #f8f9fa, #ffe4c4);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.AdminSign form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+  height: 70vh;
+  width: 80%;
+  max-width: 800px;
+}
+
+.AdminSign input {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  height: 20pxpx;
+  padding: 8px 12px;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.AdminSign input:focus {
+  border: 1px solid #ff7f50;
+  box-shadow: 0 0 6px rgba(255, 127, 80, 0.4);
+  outline: none;
+}
+
+.AdminSign button {
+  grid-column: span 2;
+  background: linear-gradient(135deg, #ff7f50, #ff6347);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.AdminSign button:hover {
+  background: linear-gradient(135deg, #ff6347, #ff4500);
+  transform: translateY(-2px);
+}
+
+.thumbnail {
+  grid-column: span 2;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff6347;
+  margin-bottom: 10px;
+}

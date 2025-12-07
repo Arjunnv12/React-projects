@@ -1,0 +1,204 @@
+{
+  "product": [
+    {
+      "id": "cd21",
+      "p_name": "Iphone 17",
+      "p_category": "SmartPhone",
+      "p_brand": "Apple",
+      "pr_price": "1,01,000",
+      "pr_desc": "iPhone 17. Built for Apple Intelligence. Featuring Camera Control. 48 MP Fusion camera. Five vibrant colours. And A18 chip.",
+      "pr_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/v/e/-original-imahft5gfchxyewy.jpeg?q=70",
+      "pr_stock": "50",
+      "pr_rating": "4.3",
+      "p_caategory": "v",
+      "pr_image": "f"
+    },
+    {
+      "id": "e580",
+      "p_name": "Samsung S25 Ultra",
+      "p_category": "Smart Phone",
+      "p_brand": "Samsung",
+      "pr_price": "1,20,000",
+      "pr_desc": "Ultra Wide Camera - Capture razor-sharp details from Wide to Telephoto and even Ultra Wide. Whether shooting landscapes or zoomed-in portraits, the AI-enhanced ProVisual Engine and 200 MP camera deliver",
+      "pr_img": "https://m.media-amazon.com/images/I/71P85R392uL._AC_UY218_.jpg",
+      "pr_stock": "15",
+      "pr_rating": "4.5"
+    },
+    {
+      "id": "de77",
+      "p_name": "SONY Alpha",
+      "p_category": "",
+      "p_brand": "Sony",
+      "pr_price": "59,990",
+      "pr_desc": "SONY Alpha ILCE-6600 APS-C Mirrorless Camera Body Only Featuring Eye AF and 4K movie recording  (Black)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/k3q76a80/camera/7/9/u/sony-apsc-ilce-6600-b-in5-mirrorless-original-imafm6mtahhva36r.jpeg?q=70",
+      "pr_stock": "5",
+      "pr_rating": "4.3"
+    },
+    {
+      "id": "fbfc",
+      "p_name": "Glass Coffee Table  ",
+      "p_category": "Home Appliances",
+      "p_brand": "Homes Dorn",
+      "pr_price": "5,999",
+      "pr_desc": "Finish Color - Midnight Black, Knock Down)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/m/u/k/-original-imagwvhv2wtght6x.jpeg?q=70",
+      "pr_stock": "2",
+      "pr_rating": "3"
+    },
+    {
+      "id": "3cc8",
+      "p_name": "Tawa ",
+      "p_category": "Home Appliances",
+      "p_brand": "Prestige",
+      "pr_price": "800",
+      "pr_desc": "Aluminium, Non-stick, Induction Bottom",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/pot-pan/i/g/j/-original-imah7fymgzbfcpwz.jpeg?q=70",
+      "pr_stock": "500",
+      "pr_rating": "5"
+    },
+    {
+      "id": "24cc",
+      "p_name": "Sport Shoe",
+      "p_category": "Footwear",
+      "p_brand": "Nike",
+      "pr_price": "7,424",
+      "pr_desc": "Men Legend Essential 3 Next Nature Workout Shoes",
+      "pr_img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAf/EADIQAAEDAwIDBQcEAwAAAAAAAAEAAgMEBRESITFRcQYTIkFhQoGRobHh8DNi0fEVIyT/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAQEAAgMBAQEAAAAAAAAAAAABAhESITEDQWH/2gAMAwEAAhEDEQA/AO0oiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAi8SSxxkB7w0nhkqKr7yyJkjYv1AcADfUOY32+yi5SHnqXc5rRlxA6rzFKyUOMbshpweqrXeRz5e6cgPOS3UcA+m/hUlajLDKWyyNdE9vhIHtevJZT6W5a0vxmt7SyLy9wY0uccAKEku8lPPiZzXZO7BuR6LS5SeqyWp1F8aQ5oI4EZX1WQLRnulPFUmn1AyDj4gBnllbypd0objS3GeWjZHOHu1CJ/gcfPwuPhcfTbCz+lsnS+El9WptRM4ZbEzHMv+yxuNY7jJGwft/pU2PtHDTSBtyL7b5f9EZYCfR3A9QVLQ3Shmi7xlyY9nNkgKz5WrcdM9+kFuon19VKJBEMBuncknAGepHkoCbtBZ6akEk9dACRlwDhss9ylpLjRzU0j+8hlBG7tyB0VUa7s9azl8sAmHDLtbwfTiQmKMuNnaQPaAVL822jqZs+25mhh65wT1AK27bXXFhEk82iPIPcxbe4n8/mKN/p4mF8dFXui4942ldp+JWvT9qaCpm000VXI88WRw6ifcPz4q1VxmX5Olzkv8kjTrboHANZ5+9ajqlznkuOnfADMbbfX8OFGQz105PdWqqiZjOuoeyLHUE6vkpSO2wloM9SdRABDGHHQE4z8Fz54fS+N5lhPVzs8pmtdNITklnHnjZbi0bIYv8ZE2B2pjMtz71vLtx8jnvvQsNQ2ORmmWDvW5zgtB35rMilCsXOSppmaaW2V9SPaa4B+ocs5z81W301JVTvdW9h52HSD3jaFpc875HhGeXE+a6Wipwi0zsc5ZZbO90QHZOcd40uJfbtmEY2OfPf5FZRHHRMDbb2eqYi5pLXRW0sDeuBnK6CicE3O1zSlq702pcZrddCxrsb0chDxjiOX2W0ZLg+nklhtlwj2LhCKRzXE8uvxXQUU8WeutOe1ENY6lkMNuuUkwbmON0BY3V5ZOOaytpbnKP8ARY5I3OGC6peT9c/RX1E4/wBJjjPxH2Skko6IRzPDpCdTgBhrTyHopBEUyaSIiKQREQEREBERAREQEREH/9k=",
+      "pr_stock": "8",
+      "pr_rating": "4.5"
+    },
+    {
+      "id": "0d5c",
+      "p_name": "Tshirt",
+      "p_category": "Clothing",
+      "p_brand": "Adidas",
+      "pr_price": "442",
+      "pr_desc": "Men Graphic Print Polo Neck Cotton Blend Grey T-Shirt",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/u/z/u/m-kg9451-adidas-original-imahf4xyytqq6jn5.jpeg?q=70",
+      "pr_stock": "290",
+      "pr_rating": "3.3"
+    },
+    {
+      "id": "ecad",
+      "p_name": "Hot Wheels",
+      "p_category": "Toys & Games",
+      "p_brand": "HotWheels",
+      "pr_price": "1500",
+      "pr_desc": "HOT WHEELS NISSAN SKYLINE GT-R BNR32  (Black, Pack of: 1)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/vehicle-pull-along/n/h/y/nissan-skyline-gt-r-bnr32-hot-wheels-2-original-imahfyf6sb7zwfuu.jpeg?q=70",
+      "pr_stock": "70",
+      "pr_rating": "3.9"
+    },
+    {
+      "id": "0176",
+      "p_name": "Godfather Perfume-Premium",
+      "p_category": "Beauty-Personal Care",
+      "p_brand": "BEARDO",
+      "pr_price": "345",
+      "pr_desc": "BEARDO Godfather Perfume-Premium, Strong and Long Lasting Fragrance-Aromatic-Gift Eau de Parfum - 100 ml  (For Men)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/perfume/t/g/w/-original-imahgfz5heyhyfxv.jpeg?q=70",
+      "pr_stock": "20",
+      "pr_rating": "3"
+    },
+    {
+      "id": "9933",
+      "p_name": "Kerala Banana Chips",
+      "p_category": "Groceries",
+      "p_brand": "CHEFOUSE",
+      "pr_price": "599",
+      "pr_desc": "FLAVORS OF KERALA Kerala Banana Chips Wafers In Coconut Oil | Fresh, Healthy, Thin, Crispy Snacks  (600 g)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/chips/d/o/d/200-banana-chips-tangy-tomato-flavour-kerala-banana-chips-indian-original-imahednzfxhccnph.jpeg?q=70",
+      "pr_stock": "300",
+      "pr_rating": "3.8"
+    },
+    {
+      "id": "dcde",
+      "p_name": "Football Shoes",
+      "p_category": "Sports & Fitness",
+      "p_brand": "VECTOR X",
+      "pr_price": "800",
+      "pr_desc": "Soccer Studs Synthetic Leather Upper with PVC Sole Soccer Football Shoes For Men  (Green , 6)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/i/b/t/-original-imahgbzacsgny42g.jpeg?q=70",
+      "pr_stock": "200",
+      "pr_rating": "2.9"
+    },
+    {
+      "id": "eb92",
+      "p_name": "Whey Protein",
+      "p_category": "Health & Wellness",
+      "p_brand": "MUSCLEBLAZE",
+      "pr_price": "1425",
+      "pr_desc": "MUSCLEBLAZE Biozyme Performance Whey Protein Powder, 25g Protein Per Scoop Whey Protein  (2 kg, Kesar Thandai)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/protein-supplement/c/v/j/whey-protein-biozyme-performance-whey-protein-powder-25g-protein-original-imahffd5u8vznaxq.jpeg?q=70",
+      "pr_stock": "300",
+      "pr_rating": "4.2"
+    },
+    {
+      "id": "e800",
+      "p_name": "Stationery Kit ",
+      "p_category": "Office Supplies",
+      "p_brand": "CELLO",
+      "pr_price": "230",
+      "pr_desc": "Cello Office Stationery Kit Office Set  (Multicolor)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/l27wtjk0/office-set/q/i/7/-original-imagdhxdfgyazmhg.jpeg?q=70",
+      "pr_stock": "142",
+      "pr_rating": "4.5"
+    },
+    {
+      "id": "56f9",
+      "p_name": "Mobile Holder",
+      "p_category": "Mobile Accessories",
+      "p_brand": "AMBRANE",
+      "pr_price": "210",
+      "pr_desc": "Ambrane TwiStand Pro Mobile Holder",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/mobile-holder/c/u/b/stand-twistand-pro-ambrane-yes-original-imagq54et3sdqezq.jpeg?q=70",
+      "pr_stock": "530",
+      "pr_rating": "3.1"
+    },
+    {
+      "id": "2399",
+      "p_name": "Guitar",
+      "p_category": "Musical Instruments",
+      "p_brand": "YAMAHA",
+      "pr_price": "8345",
+      "pr_desc": "YAMAHA C 40 Acoustic Classical Folk Guitar ( Natural ) ",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/kod858w0/acoustic-guitar/p/r/4/f280-tbs-with-padded-bag-belt-plectrums-and-string-yamaha-original-imag2u39uqqs8dkf.jpeg?q=70",
+      "pr_stock": "17",
+      "pr_rating": "3.9"
+    },
+    {
+      "id": "598a",
+      "p_name": "Biscrok Biscuits",
+      "p_category": "Pet Supplies",
+      "p_brand": "PEDIGREE",
+      "pr_price": "176",
+      "pr_desc": "PEDIGREE Biscrok Biscuits (Above 4 months) Chicken Dog Treat  (500 g",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/l29c9e80/pet-treat/i/b/n/-original-imagdnacbzezyndz.jpeg?q=70",
+      "pr_stock": "188",
+      "pr_rating": "3.6"
+    },
+    {
+      "id": "5a6a",
+      "p_name": "EA Sports FC 24",
+      "p_category": "Toys & Games",
+      "p_brand": "PS4",
+      "pr_price": "2345",
+      "pr_desc": "PS4 EA Sports FC 24  (for PS4)",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/n/g/v/-original-imahf6y8p74neg8j.jpeg?q=70",
+      "pr_stock": "9",
+      "pr_rating": "4.6"
+    },
+    {
+      "id": "2e49",
+      "p_name": " Analog Watch",
+      "p_category": "Clothing",
+      "p_brand": "LEE COOPER",
+      "pr_price": "22345",
+      "pr_desc": "LEE COOPER  Analog Watch - For Men LC08217.170",
+      "pr_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/5/y/n/1-lc08217-170-lee-cooper-men-original-imahfv3e9ghnhcar.jpeg?q=70",
+      "pr_stock": "1",
+      "pr_rating": "4.6"
+    }
+  ]
+}

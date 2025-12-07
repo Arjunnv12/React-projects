@@ -1,0 +1,70 @@
+.Navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+  position: relative;
+  bottom: 20px;
+}
+
+.Navbar .logo h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #343a40;
+}
+
+.Navbar .logo span {
+  color: #007bff;
+}
+
+.Navbar .search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.Navbar .search input {
+  padding: 10px 15px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 1rem;
+  min-width: 300px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.Navbar .search input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+}
+
+.Navbar .search button,
+.Navbar .search a {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.Navbar .search button:hover,
+.Navbar .search a:hover {
+  background-color: #0056b3;
+}
+
+.Navbar .search a {
+  background-color: #28a745;
+}
+
+.Navbar .search a:hover {
+  background-color: #218838;
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "iphone-17",
+      "id": 101,
+      "price": "1,10,000",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2025/09/12/Apple-iPhone-17-series-1-copy-1757638943.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=tWBpdExNowAT-eTPo1NY8g",
+      "rating": "4.5"
+    },
+    {
+      "name": "Lenovo Legion Pro 7i",
+      "id": 201,
+      "price": "69,000",
+      "image": "https://p2-ofp.static.pub//fes/cms/2025/06/16/oen7uksq2rtvyeg39xsy4aodwk3fb4296605.png",
+      "rating": "4.5"
+    },
+    {
+      "name": "Titan Neo Splash ",
+      "id": 301,
+      "price": "6,200",
+      "image": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb830e1d4/images/Titan/Catalog/1805QM04_1.jpg?sw=600&sh=600",
+      "rating": "4.5"
+    },
+    {
+      "name": "iPad Pro",
+      "id": 401,
+      "price": "76,200",
+      "image": "https://leronza.com/wp-content/uploads/2025/04/EliteGold_3n1-1-700x700.webp",
+      "rating": "4.5"
+    },
+    {
+      "name": "LG 139cm (55) QNED AI TV",
+      "id": 501,
+      "price": "1,36,200",
+      "image": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/316061_0_t3uY8vidN.png?updatedAt=1754312889542",
+      "rating": "4.5"
+    }
+  ]
+}

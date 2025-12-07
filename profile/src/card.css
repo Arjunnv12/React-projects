@@ -1,0 +1,38 @@
+.card1 {
+  height: 350px;
+  width: 200px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: aquamarine;
+}
+.cardcontainer {
+  position: relative;
+  bottom: 130px;
+  display: flex;
+  gap: 80px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.imgo img {
+  margin: 180px 180px;
+  position: relative;
+  left: 100px;
+  border: 1px solid black;
+}
+.imgo {
+  display: inline-block;
+  position: relative;
+  bottom: 40px;
+}
+.names {
+  position: relative;
+  bottom: 190px;
+  border: 2px solid rgb(255, 255, 255);
+  width: 500px;
+  height: 130px;
+  padding: 20px 20px;
+  color: #ffffff;
+}

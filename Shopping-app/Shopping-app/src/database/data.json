@@ -1,0 +1,44 @@
+{
+  "Admin": [
+    {
+      "id": "96a0",
+      "U_name": "Arjun",
+      "email": "Abc@gmail.com",
+      "password": "1234",
+      "re_password": "1234",
+      "phone": "12345678",
+      "age": "22",
+      "profile": "https://media.licdn.com/dms/image/v2/D5603AQHcAddaSBv1-w/profile-displayphoto-shrink_100_100/B56ZXjEfTFGQAU-/0/1743271360684?e=1762387200&v=beta&t=X6KiVaWDnE6MkTzgohkVt5D9VAvrt5TaMV2PLXDnFaI"
+    },
+    {
+      "id": "b097",
+      "U_name": "Arju",
+      "email": "arju@123",
+      "password": "1234",
+      "re_password": "1234",
+      "phone": "234567",
+      "age": "12",
+      "profile": "https://media.licdn.com/dms/image/v2/D5603AQHcAddaSBv1-w/profile-displayphoto-shrink_100_100/B56ZXjEfTFGQAU-/0/1743271360684?e=1762387200&v=beta&t=X6KiVaWDnE6MkTzgohkVt5D9VAvrt5TaMV2PLXDnFaI"
+    },
+    {
+      "id": "85dd",
+      "U_name": "abc",
+      "email": "abc@123",
+      "password": "1234",
+      "re_password": "1234",
+      "phone": "3456543",
+      "age": "22",
+      "profile": "https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/error-500_f9bbb4.png"
+    },
+    {
+      "id": "a417",
+      "U_name": "abc",
+      "email": "abc@123",
+      "password": "1234",
+      "re_password": "1234",
+      "phone": "3456543",
+      "age": "22",
+      "profile": "https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/error-500_f9bbb4.png"
+    }
+  ]
+}
